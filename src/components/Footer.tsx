@@ -17,7 +17,7 @@ export default function Footer() {
           <h3>Follow Me</h3>
           <div className="social-links">
             <a href="https://github.com/ALtzaza#" className="social-link">GitHub</a>
-            <a href="https://www.linkedin.com/in/อชิรยุ-นวลสกุลวัฒน์-722b2a434 " className="social-link">LinkedIn</a>
+            <a href="https://www.linkedin.com/in/อชิรยุ-นวลสกุลวัฒน์-722b2a434" className="social-link">LinkedIn</a>
             <a href="https://www.facebook.com/achii.rayu?locale=th_TH" className="social-link">Facebook</a>
             
           </div>
