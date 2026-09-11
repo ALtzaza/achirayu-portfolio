@@ -44,7 +44,7 @@ export default function About() {
             {/* BUTTONS */}
             <div className="about-actions">
               <a
-                href="/documents/Achirayu_CV.pdf"
+                href="/documents/Achirayu_CV1.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="about-btn primary"
